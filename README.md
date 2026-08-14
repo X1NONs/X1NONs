@@ -8,6 +8,8 @@ I break things to understand them — then I write a book about it.
 - 🏆 **Real‑world:** $500 webapp bug earnings · AI jailbreaks
 - 💬 **Ask me about:** ELF internals, stack frames, ROP gadgets, or why `gets()` should be illegal.
 - ⚡ **Fun fact:** I route YouTube over Tor because DPI can't catch obfs4.
+- 🔓 Published: Claude Sonnet 4.6 Credential Fabrication 
+Disclosure — [https://github.com/X1NONs/claude-XML-injection]
 
 ---
 
