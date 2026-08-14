@@ -5,9 +5,9 @@ I break things to understand them — then I write a book about it.
 - 🔭 **Currently:** Teaching cybersecurity at an academy, writing a full C‑to‑exploit‑dev course.
 - 🌱 **Learning:** x86‑64 assembly, kernel exploitation, and whatever the next crash teaches me.
 - 🧠 **Built:** [X1inux](https://github.com/X1NONs/X1inux) — a custom Linux distro from scratch with its own toolchain.
-- 🏆 **Real‑world:** $500 bug bounty · AI jailbreak (~$10k)
+- 🏆 **Real‑world:** $500 webapp bug earnings · AI jailbreaks
 - 💬 **Ask me about:** ELF internals, stack frames, ROP gadgets, or why `gets()` should be illegal.
-- ⚡ **Fun fact:** I route YouTube over Tor on mobile data because DPI can't catch obfs4.
+- ⚡ **Fun fact:** I route YouTube over Tor because DPI can't catch obfs4.
 
 ---
 
