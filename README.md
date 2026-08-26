@@ -1,7 +1,5 @@
 # 💫 About Me
 
-![X1NON avatar](https://github.com/X1NONs.png)
-
 **Security generalist with a low-level habit.** OSCP-certified — comfortable across
 blue team, infra, and offense.
 
