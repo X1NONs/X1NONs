@@ -9,8 +9,7 @@ blue team, infra, and offense.
 - 🎓 **OSCP-certified**, strongest on networking and Linux internals
 - 🔭 **Currently:** writing a free 3-book exploit dev curriculum, open to full-time
   security roles
-- 🏆 **Recent:** disclosed a credential-fabrication issue in Claude Sonnet 4.6 ·
-  active bug bounty hunter on HackerOne
+- 🏆 **Recent:** [disclosed a credential-fabrication issue in Claude Sonnet 4.6](https://github.com/X1NONs/claude-XML-injection#disclosure-timeline) · active bug bounty hunter on HackerOne
 - 🧠 **Built:** [X1inux](https://github.com/X1NONs/X1inux) — a custom Linux distro
   from scratch, own toolchain
 - 💬 **Ask me about:** network security, Linux hardening, ELF internals, stack
