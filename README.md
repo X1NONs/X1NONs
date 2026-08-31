@@ -24,7 +24,6 @@ blue team, infra, and offense.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23FF6600.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-%23FF6C37.svg?style=for-the-badge&logo=ghidra&logoColor=white)
