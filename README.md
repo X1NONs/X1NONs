@@ -1,23 +1,28 @@
-# 💫 About Me
+# X1NON
 
-**Security generalist with a low-level habit.** OSCP-certified — comfortable across
-blue team, infra, and offense.
+Security professional. Low-level habit but comfortable across the stack.
 
-- 🛡️ **Where I fit:** SOC / threat detection · Linux sysadmin & enterprise infra ·
-  network security · malware analysis · web app pentesting (IDOR, auth bypass,
-  business logic) · exploit development (intermediate, actively pushing further)
-- 🎓 **OSCP-certified**, strongest on networking and Linux internals
-- 🔭 **Currently:** writing a free 3-book exploit dev curriculum, open to full-time
-  security roles
-- 🏆 **Recent:** [disclosed a credential-fabrication issue in Claude Sonnet 4.6](https://github.com/X1NONs/claude-XML-injection#disclosure-timeline) · active bug bounty hunter on HackerOne
-- 🧠 **Built:** [X1inux](https://github.com/X1NONs/X1inux) — a custom Linux distro
-  from scratch, own toolchain
-- 💬 **Ask me about:** network security, Linux hardening, ELF internals, stack
-  frames, ROP gadgets — or why `gets()` should be a felony
+- SOC / threat detection
+- Linux sysadmin & enterprise infra
+- Network security
+- Malware analysis
+- Web app pentesting
+- pentesting
+- Exploit development — intermediate, actively pushing further
+
+Strongest on networking and Linux internals.
+
+**Recent work**
+
+- [Claude Sonnet 4.6 credential fabrication disclosure](https://github.com/X1NONs/claude-XML-injection#disclosure-timeline) — published in InfoSec Writeups
+- [X1inux](https://github.com/X1NONs/X1inux) — custom Linux distro from scratch, own toolchain
+- [C for exploit development](https://github.com/X1NONs/C-for-exploit-development) — free 3-book curriculum, ~1500 pages
+
+**Currently:** PS5 kernel exploit research — 13.40 userland offsets, working ROP chain, chasing the reclaim step. [X1NON-PSJB](https://github.com/X1NONs/X1NON-PSJB)
+
+Ask me about network security, Linux hardening, ELF internals, ROP gadgets, or why `gets()` should be a felony.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X1NONs)
-
-## 💻 Toolbox
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,5 +32,4 @@ blue team, infra, and offense.
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-%23FF6600.svg?style=for-the-badge&logo=gnu&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-%23FF6C37.svg?style=for-the-badge&logo=ghidra&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
