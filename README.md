@@ -18,7 +18,7 @@ Strongest on networking and Linux internals.
 - [X1inux](https://github.com/X1NONs/X1inux) — custom Linux distro from scratch, own toolchain
 - [C for exploit development](https://github.com/X1NONs/C-for-exploit-development) — free 3-book curriculum, ~1500 pages
 
-**Currently:** PS5 kernel exploit research — 13.40 userland offsets, working ROP chain, chasing the reclaim step. [X1NON-PSJB](https://github.com/X1NONs/X1NON-PSJB)
+**Currently:** PS5 kernel exploit research — 13.XX userland offsets, working ROP chain, chasing the reclaim step. [X1NON-PSJB](https://github.com/X1NONs/X1NON-PSJB)
 
 Ask me about network security, Linux hardening, ELF internals, ROP gadgets, or why `gets()` should be a felony.
 
