@@ -1,6 +1,6 @@
 # X1NON
 
-Security professional. Low-level habit but comfortable across the stack.
+Security generalist. Low-level habit but comfortable across the stack.
 
 - SOC / threat detection
 - Linux sysadmin & enterprise infra
