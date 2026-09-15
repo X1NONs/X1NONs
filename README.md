@@ -4,6 +4,7 @@ Security generalist. Low-level habit but comfortable across the stack.
 
 - SOC / threat detection
 - Linux sysadmin & enterprise infra
+- RF / EM — wireless and electromagnetic security
 - Network security
 - Malware analysis
 - Web app pentesting
