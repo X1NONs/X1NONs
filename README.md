@@ -14,7 +14,7 @@ Security generalist. Low-level habit but comfortable across the stack.
 Strongest on networking and Linux internals.
 
 **Recent work**
-
+- [Xmod](https://github.com/X1NONs/Xmod) — modular kernel memory introspection framework for Linux (LKM + userland plugins)
 - [Claude Sonnet 4.6 credential fabrication disclosure](https://github.com/X1NONs/claude-XML-injection#disclosure-timeline) — published in InfoSec Writeups
 - [X1inux](https://github.com/X1NONs/X1inux) — custom Linux distro from scratch, own toolchain
 - [C for exploit development](https://github.com/X1NONs/C-for-exploit-development) — free 3-book curriculum, ~1500 pages
